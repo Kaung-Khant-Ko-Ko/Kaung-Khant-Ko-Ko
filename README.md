@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaung Khant Ko Ko</h1>
 <h3 align="center">A Computer Science Student who is interested in Artificial Intelligence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaung-khant-ko-ko&label=Profile%20views&color=0e75b6&style=flat" alt="kaung-khant-ko-ko" /> </p>
+- 🌱 I’m currently learning **Frontend Development**
 
-- 🔭 I’m currently working on **Image Detection and Segmentation**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 📫 How to reach me **kaungkhantk540@gmail.com**
+- 📫 How to reach me **kaungkhantkoko.ai@gmail.com**
 
 - ⚡ Fun fact **I love anime.**
 
